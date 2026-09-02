@@ -5,3 +5,5 @@ Sou estudante de Desenvolvimento de Sistemas e estou iniciando minha jornada na 
 Python
 HTML
 CSS
+
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:nathanyoliveira49L@gmail.com)
